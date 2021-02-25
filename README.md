@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Profile!
 
-I'm Fahim, a passionate blockchain developer from **`TR`**, founder of PlusBit. 
+I'm Fahim, a passionate self-taught frontEnd & blockchain developer from **`Turkey`**.
 
 Currently researching on engineering practices in DeFi and improving ÐApp experience. I'm always running to environments where I can learn new things.
 
