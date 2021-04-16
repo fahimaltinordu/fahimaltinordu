@@ -9,5 +9,5 @@ Currently researching on engineering practices in DeFi and improving ÐApp exper
 
 ![PlusBit's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahimaltinordu&show_icons=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimaltinordu&layout=compact)](https://github.com/fahimaltinordu/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimaltinordu&layout=compact)
 
