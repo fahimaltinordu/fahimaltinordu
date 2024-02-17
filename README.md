@@ -13,9 +13,7 @@ I'm Fahim, a passionate self-taught frontEnd & blockchain developer from **`Turk
 
 Currently researching on engineering practices in DeFi and improving ÐApp experience. I'm always running to environments where I can learn new things.
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahimaltinordu&show_icons=true&theme=react" alt="Fahim's github stats" />
-</a>
+
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimaltinordu&layout=compact" />
 </a>
